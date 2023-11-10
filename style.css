@@ -8,3 +8,6 @@
     color: blue;
     text-align: center;
 }
+.container{
+    background-color: rgba(var(--bs-body-color-rgb), .5);
+}
